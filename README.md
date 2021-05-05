@@ -4,3 +4,4 @@
 3. Decision tree
 4. Naive Bayes classifier
 5. Bayesian Network 
+6. Bayesian Network without builtin function
